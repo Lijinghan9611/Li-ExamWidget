@@ -1,5 +1,7 @@
 ### Li-ExamWidght 在线答题,试卷测试
 
+UniApp组件市场：https://ext.dcloud.net.cn/plugin?id=706
+
 在线答题组件，组件名：``Li-ExamWidght``。
 支持单选，多选，填空，我觉得判断题可以做成单选形式，所以就没有添加。
 有些字段是按照我的项目来写的，请根据自己的需求修改。
