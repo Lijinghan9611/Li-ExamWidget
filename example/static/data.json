@@ -1,0 +1,887 @@
+{
+    "fldGuid": "912e814d-ed2b-4e5b-9d99-759fae1ce64c",
+    "paperName": "消防知识题",
+    "fldType": "0",
+    "fldTypeName": "消防知识",
+    "fldCreateTime": "2019-08-20T16:26:39.13",
+    "QuestionList": [
+        {
+            "questionID": "655180e7-c06a-42ca-a043-6ead0dc41b2f",
+            "fldName": "下列哪种灭火器不可用于电器类火灾()。",
+            "fldAnswer": null,
+            "questionType": 0,
+            "QuestionOptionList": [
+                {
+                    "optionID": "b56faf0b-0157-4820-a4bd-aa6fe1707bde",
+                    "fldOptionText": "干粉灭火器",
+                    "fldOptionIndex": 1
+                },
+                {
+                    "optionID": "0877f05c-7052-4581-a85a-d46ebe6898b2",
+                    "fldOptionText": "二氧化碳灭火器",
+                    "fldOptionIndex": 2
+                },
+                {
+                    "optionID": "e1167ea9-6d50-4009-ae73-9a834780c408",
+                    "fldOptionText": "泡沫灭火器",
+                    "fldOptionIndex": 3
+                },
+                {
+                    "optionID": "d327e262-5eb4-43e8-b4b0-30513994be0f",
+                    "fldOptionText": "泡灭火器",
+                    "fldOptionIndex": 4
+                }
+            ]
+        },
+        {
+            "questionID": "694883cf-c72c-43f9-b39a-93dda3c6ddd2",
+            "fldName": "用灭火器进行灭火的最佳位置是（   ）",
+            "fldAnswer": null,
+            "questionType": 0,
+            "QuestionOptionList": [
+                {
+                    "optionID": "761d83bf-f045-4b9a-bf12-330797c1672a",
+                    "fldOptionText": "下风位置",
+                    "fldOptionIndex": 1
+                },
+                {
+                    "optionID": "486caf7b-36e3-4bae-a48c-3fc722139480",
+                    "fldOptionText": "上风或侧风位置  ",
+                    "fldOptionIndex": 2
+                },
+                {
+                    "optionID": "7d6243a7-0f26-414b-871b-73fc7126f988",
+                    "fldOptionText": "离起火点10米以上的位置",
+                    "fldOptionIndex": 3
+                },
+                {
+                    "optionID": "f781bf25-9d07-4481-b346-a80a5bbb40e3",
+                    "fldOptionText": "下风位置11",
+                    "fldOptionIndex": 4
+                }
+            ]
+        },
+        {
+            "questionID": "20dd967f-7e82-435a-ac2f-449eab135401",
+            "fldName": "我国将每年（  ）做为消防活动日。",
+            "fldAnswer": 2,
+            "questionType": 0,
+            "QuestionOptionList": [
+                {
+                    "optionID": "f7bc8451-d818-4c0b-b84a-e86f2d7ea730",
+                    "fldOptionText": "1月11日 ",
+                    "fldOptionIndex": 1
+                },
+                {
+                    "optionID": "e95e56d6-6882-4129-92f2-d9cca45aca4a",
+                    "fldOptionText": "1月9日 ",
+                    "fldOptionIndex": 2
+                },
+                {
+                    "optionID": "fb8ec8e5-c022-438a-962c-e8594cd0f318",
+                    "fldOptionText": "1月13日 ",
+                    "fldOptionIndex": 3
+                },
+                {
+                    "optionID": "13fc4463-3130-4fd1-bc1d-536aa18201f5",
+                    "fldOptionText": "1月19日 ",
+                    "fldOptionIndex": 4
+                }
+            ]
+        },
+        {
+            "questionID": "6ec6be69-12c9-42a9-a7f1-0a4dcaa1a3d2",
+            "fldName": "下列人员应当持证上岗（）",
+            
+            "fldAnswer": 1,
+            "questionType": 0,
+            "QuestionOptionList": [
+                {
+                    "optionID": "e9aa8de1-5d1c-412f-ae29-8b1edbc7d860",
+                    "fldOptionText": "单位的消防安全责任人、消防安全管理人",
+                    "fldOptionIndex": 1
+                },
+                {
+                    "optionID": "b21299e4-50ca-4070-aeda-500795725353",
+                    "fldOptionText": "专、兼职消防管理人员 ",
+                    "fldOptionIndex": 2
+                },
+                {
+                    "optionID": "906555a2-017a-4586-a470-9f8a7627a3da",
+                    "fldOptionText": "消防控制室的值班、操作人员；",
+                    "fldOptionIndex": 3
+                },
+                {
+                    "optionID": "a9fb4dfe-ad74-417f-a49d-f205c52906be",
+                    "fldOptionText": "其他依照规定应当接受消防安全专门培训的人员。 ",
+                    "fldOptionIndex": 4
+                }
+            ]
+        },
+        {
+            "questionID": "5bbdbc0d-faf5-4b10-a1c6-8778515dda86",
+            "fldName": "下列人员应当持证上岗（）",
+            
+            "fldAnswer": null,
+            "questionType": 0,
+            "QuestionOptionList": [
+                {
+                    "optionID": "8f883548-e549-428c-b2c4-28a0f1a52615",
+                    "fldOptionText": "单位的消防安全责任人、消防安全管理人",
+                    "fldOptionIndex": 1
+                },
+                {
+                    "optionID": "b8b31b5b-6e1a-47cb-bb65-60961a5b12f1",
+                    "fldOptionText": "专、兼职消防管理人员 ",
+                    "fldOptionIndex": 2
+                },
+                {
+                    "optionID": "099c794c-678d-4892-ac1f-d33368f4618d",
+                    "fldOptionText": "消防控制室的值班、操作人员；",
+                    "fldOptionIndex": 3
+                },
+                {
+                    "optionID": "e306f40b-f565-40be-9452-0ec744d2fcac",
+                    "fldOptionText": "其他依照规定应当接受消防安全专门培训的人员。 ",
+                    "fldOptionIndex": 4
+                }
+            ]
+        },
+        {
+            "questionID": "1fc76247-832f-4c9a-a3cd-4ef70fd5274c",
+            "fldName": "下列人员应当持证上岗（）",
+            
+            "fldAnswer": null,
+            "questionType": 0,
+            "QuestionOptionList": [
+                {
+                    "optionID": "24a8dc6e-c115-43e2-b146-921f16b348d9",
+                    "fldOptionText": "单位的消防安全责任人、消防安全管理人",
+                    "fldOptionIndex": 1
+                },
+                {
+                    "optionID": "33988948-a91d-4ec8-8de1-6a6b3293b0c5",
+                    "fldOptionText": "专、兼职消防管理人员 ",
+                    "fldOptionIndex": 2
+                },
+                {
+                    "optionID": "84e40c18-30bc-4f4c-9209-ba7de61e8da3",
+                    "fldOptionText": "消防控制室的值班、操作人员；",
+                    "fldOptionIndex": 3
+                },
+                {
+                    "optionID": "f6cae047-a815-441b-a97f-06a7ab7372cb",
+                    "fldOptionText": "其他依照规定应当接受消防安全专门培训的人员。 ",
+                    "fldOptionIndex": 4
+                }
+            ]
+        },
+        {
+            "questionID": "d838f96a-e9d2-42c2-9de5-90fdbaa0383e",
+            "fldName": "用灭火器进行灭火的最佳位置是（   ）",
+            
+            "fldAnswer": null,
+            "questionType": 0,
+            "QuestionOptionList": [
+                {
+                    "optionID": "a08d0e0a-f8b9-448d-bc33-08d45e9b0de6",
+                    "fldOptionText": "下风位置",
+                    "fldOptionIndex": 1
+                },
+                {
+                    "optionID": "7ccc9dcf-08fd-472d-b4c7-36e8105ddd3f",
+                    "fldOptionText": "上风或侧风位置  ",
+                    "fldOptionIndex": 2
+                },
+                {
+                    "optionID": "b5446977-81d1-48f2-900a-d2ef152272d6",
+                    "fldOptionText": "离起火点10米以上的位置",
+                    "fldOptionIndex": 3
+                },
+                {
+                    "optionID": "0603ca39-d56b-4b52-a12d-bb96e1481bde",
+                    "fldOptionText": "下风位置11",
+                    "fldOptionIndex": 4
+                }
+            ]
+        },
+        {
+            "questionID": "7415db30-946b-4af3-bd07-57034ae053bc",
+            "fldName": "用灭火器进行灭火的最佳位置是（   ）",
+            
+            "fldAnswer": null,
+            "questionType": 0,
+            "QuestionOptionList": [
+                {
+                    "optionID": "e05790b1-891c-443c-b132-1794f4543cbe",
+                    "fldOptionText": "下风位置",
+                    "fldOptionIndex": 1
+                },
+                {
+                    "optionID": "58063349-c932-4183-9d7f-aced5995f2ac",
+                    "fldOptionText": "上风或侧风位置  ",
+                    "fldOptionIndex": 2
+                },
+                {
+                    "optionID": "11acf8aa-b805-4f88-a71e-5429a64fe36f",
+                    "fldOptionText": "离起火点10米以上的位置",
+                    "fldOptionIndex": 3
+                },
+                {
+                    "optionID": "95107ab5-6109-47ba-993e-4efc60d60341",
+                    "fldOptionText": "下风位置11",
+                    "fldOptionIndex": 4
+                }
+            ]
+        },
+        {
+            "questionID": "8158e223-892e-46e0-b1d1-b9bc65d92b56",
+            "fldName": "用灭火器进行灭火的最佳位置是（   ）",
+            
+            "fldAnswer": null,
+            "questionType": 0,
+            "QuestionOptionList": [
+                {
+                    "optionID": "1f3e664b-e9d5-4711-8a36-be3da4b9d2ed",
+                    "fldOptionText": "下风位置",
+                    "fldOptionIndex": 1
+                },
+                {
+                    "optionID": "8ad63957-0c9e-4d50-ab3c-7c111aab22cb",
+                    "fldOptionText": "上风或侧风位置  ",
+                    "fldOptionIndex": 2
+                },
+                {
+                    "optionID": "5989de51-a57a-4efc-b516-ad97f2841620",
+                    "fldOptionText": "离起火点10米以上的位置",
+                    "fldOptionIndex": 3
+                },
+                {
+                    "optionID": "1bedb93f-dace-433a-b4ba-8666db44d3e5",
+                    "fldOptionText": "下风位置11",
+                    "fldOptionIndex": 4
+                }
+            ]
+        },
+        {
+            "questionID": "238b382a-c9fa-4667-a547-043c762bad3b",
+            "fldName": "按照火灾分类标准，我国火灾分为（  ）",
+            
+            "fldAnswer": null,
+            "questionType": 0,
+            "QuestionOptionList": [
+                {
+                    "optionID": "54a5233c-9f59-4e1f-8ed1-2cda29be1a50",
+                    "fldOptionText": "特大火灾、重大火灾和一般火灾  ",
+                    "fldOptionIndex": 1
+                },
+                {
+                    "optionID": "302289d4-e95c-46ab-ab85-33281fca48cc",
+                    "fldOptionText": "特大火灾、重大火灾和一般火灾  ",
+                    "fldOptionIndex": 2
+                },
+                {
+                    "optionID": "63444f41-23ab-4881-a20a-c25b8cf6454f",
+                    "fldOptionText": "特大火灾、重大火灾、较大火灾和一般火灾 ",
+                    "fldOptionIndex": 3
+                },
+                {
+                    "optionID": "13fe2dbd-0b8f-40ff-a2bf-156e62e38439",
+                    "fldOptionText": "特大火灾、重大火灾和一般火灾  ",
+                    "fldOptionIndex": 4
+                }
+            ]
+        },
+        {
+            "questionID": "d07ff88c-1390-4b75-8e98-c0f11e11cf11",
+            "fldName": "使用灭火器扑救火灾时要对准火焰的()喷射。",
+            
+            "fldAnswer": null,
+            "questionType": 0,
+            "QuestionOptionList": [
+                {
+                    "optionID": "b6e5462d-9433-49a8-9c8e-ea7c78cdfe97",
+                    "fldOptionText": "上部",
+                    "fldOptionIndex": 1
+                },
+                {
+                    "optionID": "948aafea-2414-4932-a68d-edf453147063",
+                    "fldOptionText": "中部",
+                    "fldOptionIndex": 2
+                },
+                {
+                    "optionID": "15acff65-8405-4823-972d-8f881f9fa9eb",
+                    "fldOptionText": "根部",
+                    "fldOptionIndex": 3
+                },
+                {
+                    "optionID": "b2d2e0f3-337e-45b4-bd8e-4e50e5a05c61",
+                    "fldOptionText": "根部1",
+                    "fldOptionIndex": 4
+                }
+            ]
+        },
+        {
+            "questionID": "1fc84bb8-de3c-451b-95c4-8cba9380dac7",
+            "fldName": "用灭火器进行灭火的最佳位置是（   ）",
+            
+            "fldAnswer": null,
+            "questionType": 0,
+            "QuestionOptionList": [
+                {
+                    "optionID": "3a5e4ac5-ee67-45ed-b982-18061718c4a0",
+                    "fldOptionText": "下风位置",
+                    "fldOptionIndex": 1
+                },
+                {
+                    "optionID": "316b8d44-3ea6-456c-8b79-98ef39238db6",
+                    "fldOptionText": "上风或侧风位置  ",
+                    "fldOptionIndex": 2
+                },
+                {
+                    "optionID": "933e13dc-233e-4959-af0a-9a0b482c4790",
+                    "fldOptionText": "离起火点10米以上的位置",
+                    "fldOptionIndex": 3
+                },
+                {
+                    "optionID": "5a6d3be9-d26f-4e3b-a63d-3723acd42642",
+                    "fldOptionText": "下风位置11",
+                    "fldOptionIndex": 4
+                }
+            ]
+        },
+        {
+            "questionID": "2d3bd4ce-c56c-48c7-8519-ebac17e7c98a",
+            "fldName": "下列人员应当持证上岗（）",
+            
+            "fldAnswer": null,
+            "questionType": 0,
+            "QuestionOptionList": [
+                {
+                    "optionID": "7c8f2943-a137-4fcb-bb27-509eabdbb649",
+                    "fldOptionText": "单位的消防安全责任人、消防安全管理人",
+                    "fldOptionIndex": 1
+                },
+                {
+                    "optionID": "a61b9743-2008-4d43-99a8-869d7be99c08",
+                    "fldOptionText": "专、兼职消防管理人员 ",
+                    "fldOptionIndex": 2
+                },
+                {
+                    "optionID": "c46af8ff-92e7-4fad-a113-25cd0d189a00",
+                    "fldOptionText": "消防控制室的值班、操作人员；",
+                    "fldOptionIndex": 3
+                },
+                {
+                    "optionID": "16394858-30ba-4b84-bf5a-5a798a93d948",
+                    "fldOptionText": "其他依照规定应当接受消防安全专门培训的人员。 ",
+                    "fldOptionIndex": 4
+                }
+            ]
+        },
+        {
+            "questionID": "e9a42d88-8148-4bc7-9d1b-cb3950e04036",
+            "fldName": "下列人员应当持证上岗（）",
+            
+            "fldAnswer": null,
+            "questionType": 0,
+            "QuestionOptionList": [
+                {
+                    "optionID": "a7f453fd-b88e-42d0-aae1-43609bb48031",
+                    "fldOptionText": "单位的消防安全责任人、消防安全管理人",
+                    "fldOptionIndex": 1
+                },
+                {
+                    "optionID": "5f0daf75-7ef6-4408-abdd-be4b06a5b009",
+                    "fldOptionText": "专、兼职消防管理人员 ",
+                    "fldOptionIndex": 2
+                },
+                {
+                    "optionID": "2b2cd11b-b5db-4091-84c0-500f3ca888c7",
+                    "fldOptionText": "消防控制室的值班、操作人员；",
+                    "fldOptionIndex": 3
+                },
+                {
+                    "optionID": "2711a283-6d6d-4923-bafa-77a0f0565206",
+                    "fldOptionText": "其他依照规定应当接受消防安全专门培训的人员。 ",
+                    "fldOptionIndex": 4
+                }
+            ]
+        },
+        {
+            "questionID": "ac7a8f0d-97cc-4cda-9502-dbaae1d7f265",
+            "fldName": "用灭火器进行灭火的最佳位置是（   ）",
+            
+            "fldAnswer": null,
+            "questionType": 0,
+            "QuestionOptionList": [
+                {
+                    "optionID": "19807f06-7ec8-45ec-8901-1c0d7eb579be",
+                    "fldOptionText": "下风位置",
+                    "fldOptionIndex": 1
+                },
+                {
+                    "optionID": "999da7f2-fe28-4898-88ac-1470dd22f978",
+                    "fldOptionText": "上风或侧风位置  ",
+                    "fldOptionIndex": 2
+                },
+                {
+                    "optionID": "f83f5f34-7a49-4afd-89ed-a94687dc93d3",
+                    "fldOptionText": "离起火点10米以上的位置",
+                    "fldOptionIndex": 3
+                },
+                {
+                    "optionID": "9c0d17fe-7d07-41c9-816a-e0f83d90219c",
+                    "fldOptionText": "下风位置11",
+                    "fldOptionIndex": 4
+                }
+            ]
+        },
+        {
+            "questionID": "17b066c6-2f0e-4640-9141-c9239b78bae9",
+            "fldName": "常见灭火器种类有哪些？（任写3种即可）。",
+            
+            "fldAnswer": null,
+            "questionType": 1,
+            "QuestionOptionList": [
+                {
+                    "optionID": "622f0b73-665c-4f82-811c-a59d57d8bc64",
+                    "fldOptionText": "干粉灭火器",
+                    "fldOptionIndex": 1
+                },
+                {
+                    "optionID": "18b0d3bc-8c2d-4f89-b73f-a5a35a8a1ea2",
+                    "fldOptionText": "泡沫灭火器  ",
+                    "fldOptionIndex": 2
+                },
+                {
+                    "optionID": "cc03355a-3b28-4be2-83ec-5591c4547fd2",
+                    "fldOptionText": "二氧化碳灭火器",
+                    "fldOptionIndex": 3
+                },
+                {
+                    "optionID": "b0285fd2-67de-46bc-9ff4-644b60562417",
+                    "fldOptionText": "二氧化碳灭火器1",
+                    "fldOptionIndex": 4
+                }
+            ]
+        },
+        {
+            "questionID": "8c4748db-eac7-410f-8055-da8f3de5404e",
+            "fldName": "常见灭火器种类有哪些？（任写3种即可）。",
+            
+            "fldAnswer": null,
+            "questionType": 1,
+            "QuestionOptionList": [
+                {
+                    "optionID": "c274a47d-6548-411d-a345-9d301e13c1cf",
+                    "fldOptionText": "干粉灭火器",
+                    "fldOptionIndex": 1
+                },
+                {
+                    "optionID": "ea7b1a98-8f8c-4b08-97f8-afee614428cb",
+                    "fldOptionText": "泡沫灭火器  ",
+                    "fldOptionIndex": 2
+                },
+                {
+                    "optionID": "19e960e1-18d3-4be4-b060-4e9671952db0",
+                    "fldOptionText": "二氧化碳灭火器",
+                    "fldOptionIndex": 3
+                },
+                {
+                    "optionID": "37bdff32-e68c-4665-a40b-c1cec6648f19",
+                    "fldOptionText": "二氧化碳灭火器1",
+                    "fldOptionIndex": 4
+                }
+            ]
+        },
+        {
+            "questionID": "561a94dd-e5fd-44b5-867d-885f2ef866c0",
+            "fldName": "常见灭火器种类有哪些？（任写3种即可）。",
+            
+            "fldAnswer": null,
+            "questionType": 1,
+            "QuestionOptionList": [
+                {
+                    "optionID": "dc98d6e2-3aa1-4857-af85-e2394ec39dd9",
+                    "fldOptionText": "干粉灭火器",
+                    "fldOptionIndex": 1
+                },
+                {
+                    "optionID": "ee2a2977-4187-41b2-bdb5-26703aa87220",
+                    "fldOptionText": "泡沫灭火器  ",
+                    "fldOptionIndex": 2
+                },
+                {
+                    "optionID": "257d3024-c28f-4709-99ec-2be0e7a44f74",
+                    "fldOptionText": "二氧化碳灭火器",
+                    "fldOptionIndex": 3
+                },
+                {
+                    "optionID": "c6e9660f-6701-4079-942f-2a04c1cb36fa",
+                    "fldOptionText": "二氧化碳灭火器1",
+                    "fldOptionIndex": 4
+                }
+            ]
+        },
+        {
+            "questionID": "cb89c33a-7591-4636-a872-88ba2f2389d9",
+            "fldName": "常见灭火器种类有哪些？（任写3种即可）。",
+            
+            "fldAnswer": null,
+            "questionType": 1,
+            "QuestionOptionList": [
+                {
+                    "optionID": "0de1f0a5-c4f8-45cc-b12e-548ac147c8aa",
+                    "fldOptionText": "干粉灭火器",
+                    "fldOptionIndex": 1
+                },
+                {
+                    "optionID": "5b49e8f3-83a3-4c56-a7b0-bc92af94d3a0",
+                    "fldOptionText": "泡沫灭火器  ",
+                    "fldOptionIndex": 2
+                },
+                {
+                    "optionID": "bf29f4da-ada1-4a3f-a2d7-2db86971bc22",
+                    "fldOptionText": "二氧化碳灭火器",
+                    "fldOptionIndex": 3
+                },
+                {
+                    "optionID": "6f5a2e6a-cad8-46e3-9f2f-049faa5f1c1a",
+                    "fldOptionText": "二氧化碳灭火器1",
+                    "fldOptionIndex": 4
+                }
+            ]
+        },
+        {
+            "questionID": "e3e6edd8-9d6c-4822-9d6c-8784aab1743d",
+            "fldName": "常见灭火器种类有哪些？（任写3种即可）。",
+            
+            "fldAnswer": null,
+            "questionType": 1,
+            "QuestionOptionList": [
+                {
+                    "optionID": "d2e84b56-8aba-4433-bae2-ec03d5a11110",
+                    "fldOptionText": "干粉灭火器",
+                    "fldOptionIndex": 1
+                },
+                {
+                    "optionID": "bd2518ef-ca1d-44cd-97d3-b8f005f6b69c",
+                    "fldOptionText": "泡沫灭火器  ",
+                    "fldOptionIndex": 2
+                },
+                {
+                    "optionID": "d38fa1ac-e60c-4113-b662-cdaf1051913c",
+                    "fldOptionText": "二氧化碳灭火器",
+                    "fldOptionIndex": 3
+                },
+                {
+                    "optionID": "54ba77e4-cfd9-46e7-90f7-0e560876cdb4",
+                    "fldOptionText": "二氧化碳灭火器1",
+                    "fldOptionIndex": 4
+                }
+            ]
+        },
+        {
+            "questionID": "39d52084-73cd-44fd-9d7f-3fc01dcc2ae9",
+            "fldName": "灭火的方法有哪几种？（任写3种即可）。",
+            
+            "fldAnswer": null,
+            "questionType": 1,
+            "QuestionOptionList": [
+                {
+                    "optionID": "dc70cd79-2826-45c5-bb1c-713a7374cd06",
+                    "fldOptionText": "冷却法",
+                    "fldOptionIndex": 1
+                },
+                {
+                    "optionID": "ba63fd45-7c49-41a3-8fbd-b9926cfd1ef8",
+                    "fldOptionText": "窒息法  ",
+                    "fldOptionIndex": 2
+                },
+                {
+                    "optionID": "0b4fd996-8f0c-4882-baab-ee0772c15587",
+                    "fldOptionText": "隔离法",
+                    "fldOptionIndex": 3
+                },
+                {
+                    "optionID": "292ddaa0-2c85-42ca-bef1-0ebb76b92b74",
+                    "fldOptionText": "抑制法",
+                    "fldOptionIndex": 4
+                }
+            ]
+        },
+        {
+            "questionID": "da4468ee-6b1d-4902-ae34-e9031cf7ea7b",
+            "fldName": "灭火的方法有哪几种？（任写3种即可）。",
+            
+            "fldAnswer": null,
+            "questionType": 1,
+            "QuestionOptionList": [
+                {
+                    "optionID": "81e2abcc-7598-449b-ae74-55e49f9c0f5d",
+                    "fldOptionText": "冷却法",
+                    "fldOptionIndex": 1
+                },
+                {
+                    "optionID": "5dc68059-43ac-4037-bfa7-a7dee79f1211",
+                    "fldOptionText": "窒息法  ",
+                    "fldOptionIndex": 2
+                },
+                {
+                    "optionID": "1d2ac0a5-ac3b-400b-ac13-571e76d23e75",
+                    "fldOptionText": "隔离法",
+                    "fldOptionIndex": 3
+                },
+                {
+                    "optionID": "03a4b345-5a2e-463a-b501-ba2ca28fd8e2",
+                    "fldOptionText": "抑制法",
+                    "fldOptionIndex": 4
+                }
+            ]
+        },
+        {
+            "questionID": "c2111ea7-e279-4849-9ed9-2af32bb622ae",
+            "fldName": "常见灭火器种类有哪些？（任写3种即可）。",
+            
+            "fldAnswer": null,
+            "questionType": 1,
+            "QuestionOptionList": [
+                {
+                    "optionID": "5bf98a1c-b5b3-42f6-933b-19af636767bd",
+                    "fldOptionText": "干粉灭火器",
+                    "fldOptionIndex": 1
+                },
+                {
+                    "optionID": "ccb86fad-ce9c-4bf7-a1c3-7d75cbb2e028",
+                    "fldOptionText": "泡沫灭火器  ",
+                    "fldOptionIndex": 2
+                },
+                {
+                    "optionID": "21bc64bc-30df-4939-949c-2bcb37d592d6",
+                    "fldOptionText": "二氧化碳灭火器",
+                    "fldOptionIndex": 3
+                },
+                {
+                    "optionID": "62e4f2ce-41a8-42cd-a184-14a2b23b2ac4",
+                    "fldOptionText": "二氧化碳灭火器1",
+                    "fldOptionIndex": 4
+                }
+            ]
+        },
+        {
+            "questionID": "7434f00d-4aea-47b3-9f05-e1795aca3e5a",
+            "fldName": "灭火的方法有哪几种？（任写3种即可）。",
+            
+            "fldAnswer": null,
+            "questionType": 1,
+            "QuestionOptionList": [
+                {
+                    "optionID": "e0c929a3-9ebf-4cf7-8ff6-24d79fc8054e",
+                    "fldOptionText": "冷却法",
+                    "fldOptionIndex": 1
+                },
+                {
+                    "optionID": "506c2917-8e56-4dde-a1a9-7c24ac9c6a66",
+                    "fldOptionText": "窒息法  ",
+                    "fldOptionIndex": 2
+                },
+                {
+                    "optionID": "2fbe8f26-4508-4f76-a442-8231dce77c16",
+                    "fldOptionText": "隔离法",
+                    "fldOptionIndex": 3
+                },
+                {
+                    "optionID": "e7333d97-1b83-43eb-b2fa-5e582d6a8631",
+                    "fldOptionText": "抑制法",
+                    "fldOptionIndex": 4
+                }
+            ]
+        },
+        {
+            "questionID": "95e59519-d72f-43fb-a712-31d1005bd7af",
+            "fldName": "常见灭火器种类有哪些？（任写3种即可）。",
+            
+            "fldAnswer": null,
+            "questionType": 1,
+            "QuestionOptionList": [
+                {
+                    "optionID": "c8fd668b-8efd-4886-8ba7-9071560b8fd8",
+                    "fldOptionText": "干粉灭火器",
+                    "fldOptionIndex": 1
+                },
+                {
+                    "optionID": "93c595a2-6cbf-4367-91a7-9738a0bd4803",
+                    "fldOptionText": "泡沫灭火器  ",
+                    "fldOptionIndex": 2
+                },
+                {
+                    "optionID": "fc919cbf-d0bb-43d6-8100-f20fbccfbbaa",
+                    "fldOptionText": "二氧化碳灭火器",
+                    "fldOptionIndex": 3
+                },
+                {
+                    "optionID": "12ae6395-e922-460f-9d2e-94a0b79099a9",
+                    "fldOptionText": "二氧化碳灭火器1",
+                    "fldOptionIndex": 4
+                }
+            ]
+        },
+        {
+            "questionID": "dcec6beb-a271-4dc1-b1cd-0eb54c89f874",
+            "fldName": "常见灭火器种类有哪些？（任写3种即可）。",
+            
+            "fldAnswer": null,
+            "questionType": 1,
+            "QuestionOptionList": [
+                {
+                    "optionID": "9a6ad4a9-d3d3-43f3-af82-006af209130b",
+                    "fldOptionText": "干粉灭火器",
+                    "fldOptionIndex": 1
+                },
+                {
+                    "optionID": "287d63ee-f6d4-49a9-8857-cea4396b1d4f",
+                    "fldOptionText": "泡沫灭火器  ",
+                    "fldOptionIndex": 2
+                },
+                {
+                    "optionID": "a0342696-6c0a-4a48-aef4-5dd9c22f676b",
+                    "fldOptionText": "二氧化碳灭火器",
+                    "fldOptionIndex": 3
+                },
+                {
+                    "optionID": "0c4d8503-91b4-4dad-a669-9fe9da6ccb6d",
+                    "fldOptionText": "二氧化碳灭火器1",
+                    "fldOptionIndex": 4
+                }
+            ]
+        },
+        {
+            "questionID": "7a0cb83b-b82b-4b03-8715-0335d10001c1",
+            "fldName": "常见灭火器种类有哪些？（任写3种即可）。",
+            "fldAnswer": "1,3",
+            "questionType": 1,
+            "QuestionOptionList": [
+                {
+                    "optionID": "6f649ff8-f303-436b-ad05-cad0f91ce17a",
+                    "fldOptionText": "干粉灭火器",
+                    "fldOptionIndex": 1
+                },
+                {
+                    "optionID": "38895946-cd34-4bcd-b4c9-63e89c81ee41",
+                    "fldOptionText": "泡沫灭火器  ",
+                    "fldOptionIndex": 2
+                },
+                {
+                    "optionID": "a8ae8587-59b0-4c8a-9a77-3b3616a5def6",
+                    "fldOptionText": "二氧化碳灭火器",
+                    "fldOptionIndex": 3
+                },
+                {
+                    "optionID": "204d7637-1817-400c-8423-e7ea46455ca4",
+                    "fldOptionText": "二氧化碳灭火器1",
+                    "fldOptionIndex": 4
+                }
+            ]
+        },
+        {
+            "questionID": "00f47bbf-f88f-4f65-9d1b-43cf0b34beb6",
+            "fldName": "灭火的方法有哪几种？（任写3种即可）。",
+            "fldAnswer": "1,2,3",
+            "questionType": 1,
+            "QuestionOptionList": [
+                {
+                    "optionID": "c78faeea-8e3c-4c54-bb28-540356780337",
+                    "fldOptionText": "冷却法",
+                    "fldOptionIndex": 1
+                },
+                {
+                    "optionID": "21156216-6d7d-443f-ac66-ac88e85782f3",
+                    "fldOptionText": "窒息法  ",
+                    "fldOptionIndex": 2
+                },
+                {
+                    "optionID": "01a97656-d0cc-4366-a257-0ee58a43a22e",
+                    "fldOptionText": "隔离法",
+                    "fldOptionIndex": 3
+                },
+                {
+                    "optionID": "de21b3a0-7bfe-4da7-a007-7d3cb95a3ae3",
+                    "fldOptionText": "抑制法",
+                    "fldOptionIndex": 4
+                }
+            ]
+        },
+        {
+            "questionID": "dae0244f-4029-4e7a-a333-4633afecf0e8",
+            "fldName": "火警电话是多少?拨打火警电话，报警内容是什么？",
+            
+            "fldAnswer": null,
+            "questionType": 2,
+            "QuestionOptionList": null
+        },
+        {
+            "questionID": "20ce357f-c549-432d-b7b3-389c64d24492",
+            "fldName": "根据《中华人民共和国消防法》规定，我国消防工作方针是（）。",
+            "fldAnswer": null,
+            "questionType": 2,
+            "QuestionOptionList": null
+        },
+        {
+            "questionID": "0c9309e7-4a87-4c21-bd06-9ba79aefa906",
+            "fldName": "火警电话是多少?拨打火警电话，报警内容是什么？",
+            "fldAnswer": null,
+            "questionType": 2,
+            "QuestionOptionList": null
+        },
+        {
+            "questionID": "213302de-e870-4f77-887e-78fb7e517c8c",
+            "fldName": "火警电话是多少?拨打火警电话，报警内容是什么？",
+            "fldAnswer": null,
+            "questionType": 2,
+            "QuestionOptionList": null
+        },
+        {
+            "questionID": "7c5fded1-6f77-4fc9-85cf-99d4ec7ababd",
+            "fldName": "火警电话是多少?拨打火警电话，报警内容是什么？",
+            "fldAnswer": null,
+            "questionType": 2,
+            "QuestionOptionList": null
+        },
+        {
+            "questionID": "8f569bcd-babc-46e6-86d3-fb3b4826e657",
+            "fldName": "乐都汇购物中心内部火警电话是。",
+            "fldAnswer": null,
+            "questionType": 2,
+            "QuestionOptionList": null
+        },
+        {
+            "questionID": "34d4f7bb-3575-47d8-89a2-55dd12250527",
+            "fldName": "火警电话是多少?拨打火警电话，报警内容是什么？",
+            "fldAnswer": null,
+            "questionType": 2,
+            "QuestionOptionList": null
+        },
+        {
+            "questionID": "2834315f-1941-49ce-98a8-0f7abaab3dbb",
+            "fldName": "火警电话是多少?拨打火警电话，报警内容是什么？",
+            "fldAnswer": null,
+            "questionType": 2,
+            "QuestionOptionList": null
+        },
+        {
+            "questionID": "a7d1ec87-99c2-474f-9a37-c026193aadc2",
+            "fldName": "火警电话是多少?拨打火警电话，报警内容是什么？",
+            "fldAnswer": null,
+            "questionType": 2,
+            "QuestionOptionList": null
+        },
+        {
+            "questionID": "a2430b2d-bc45-45d9-838a-c414f54a25ec",
+            "fldName": "火警电话是多少?拨打火警电话，报警内容是什么？",
+            "fldAnswer": "119",
+            "questionType": 2,
+            "QuestionOptionList": null
+        }
+    ]
+}
